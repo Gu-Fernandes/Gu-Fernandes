@@ -10,7 +10,7 @@
 ## 🚀 Technologies and Tools
 
 ### 💡 Languages
-<img align="right" margin-rigth="1px" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="center" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <br>
 
 <p>
