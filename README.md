@@ -37,6 +37,9 @@
 
 <p>
   <img alt="Gu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Gu-Fernandes&show_icons=true&theme=dracula&hide_border=true&border_radius=12" />
+</p>
+
+<p>
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu-Fernandes&layout=compact&theme=dracula&hide_border=true&border_radius=12" />
 </p>
 
