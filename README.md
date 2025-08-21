@@ -44,7 +44,14 @@
 
 ## 📫 Como me encontrar
 
-💼 [LinkedIn](https://linkedin.com/in/gustavo-fernandes-silva/)  
+<p>
+  <a href="https://linkedin.com/in/gustavo-fernandes-silva/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" />
+  </a>
+  <a href="mailto:gu03fernandes.s@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
