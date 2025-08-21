@@ -2,7 +2,6 @@
 
 <img align="right" alt="coding-gif" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<hr style="clear:both"/>
 
 ## ✨ Eu sou o Gustavo
 💻 Desenvolvedor **Front-end**  
@@ -10,7 +9,8 @@
 📚 Atualmente estudando **JavaScript & React**  
 🎯 Objetivo: criar interfaces modernas, responsivas e funcionais  
 
-<hr style="clear:both"/>
+<br>
+
 
 ## 🚀 Tecnologias e Ferramentas  
 
@@ -21,6 +21,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+
 
 ### 📚 Frameworks & Bibliotecas
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
