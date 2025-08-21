@@ -2,7 +2,7 @@
 
 <img align="right" alt="coding-gif" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
----
+
 
 ## ✨ Eu sou o Gustavo, 
 💻 Desenvolvedor **Front-end**  
@@ -48,14 +48,13 @@
 
 ## 📫 Como me encontrar  
 
-- 🌐 [Portfólio](https://SEU-SITE.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/SEU-LINK)  
 
 ---
 
 <div align="center">
 
-✨ Obrigado por visitar meu perfil! Sempre aprendendo, sempre construindo. 🚀  
+Evolução constante 🚀  
 
 <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="200">
 
