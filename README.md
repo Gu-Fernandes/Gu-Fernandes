@@ -44,7 +44,7 @@
 
 ## 📫 Como me encontrar
 
-💼 [LinkedIn](https://linkedin.com/in/SEU-LINK)  
+💼 [LinkedIn](https://linkedin.com/in/gustavo-fernandes-silva/)  
 
 ---
 
