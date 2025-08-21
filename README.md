@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Sobre mim  
+## ✨ Eu sou o Gustavo, 
 💻 Desenvolvedor **Front-end**  
 🚀 Apaixonado por **tecnologia, programação e inovação**  
 📚 Atualmente estudando **JavaScript & React**  
