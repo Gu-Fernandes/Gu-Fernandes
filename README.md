@@ -1,8 +1,9 @@
 # 👋 Olá, seja muito bem-vindo!
 
-<img align="right" alt="coding-gif" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=61DAFB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Fernandes;I'm+a+Front-end+Developer;I+love+technology+and+innovation;Currently+studying+TypeScript+%26+React;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3c9117&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Gustavo+Fernandes;I'm+a+Front-end+Developer;Currently+studying+TypeScript+%26+React;Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+<img align="right" alt="coding-gif" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 🚀 Tecnologias e Ferramentas
 
