@@ -14,7 +14,7 @@
 
 ## 🚀 Tecnologias e Ferramentas  
 
-<div align="center">
+<div align="start">
 
 ### 💡 Linguagens
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
@@ -35,7 +35,7 @@
 
 ## 📊 Estatísticas do GitHub  
 
-<div align="center">
+<div align="start">
 
 ![Gu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gu-Fernandes&show_icons=true&theme=dracula&hide_border=true&border_radius=12)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gu-Fernandes&layout=compact&theme=dracula&hide_border=true&border_radius=12)
@@ -50,7 +50,7 @@
 
 ---
 
-<div align="center">
+<div align="start">
 
 Evolução constante 🚀  
 
