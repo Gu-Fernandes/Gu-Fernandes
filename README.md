@@ -2,9 +2,9 @@
 
 <img align="right" alt="coding-gif" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+---
 
-
-## ✨ Eu sou o Gustavo, 
+## ✨ Eu sou o Gustavo
 💻 Desenvolvedor **Front-end**  
 🚀 Apaixonado por **tecnologia, programação e inovação**  
 📚 Atualmente estudando **JavaScript & React**  
@@ -16,10 +16,18 @@
 
 <div align="center">
 
+### 💡 Linguagens
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+
+### 📚 Frameworks & Bibliotecas
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+
+### ☁️ Cloud
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff&style=for-the-badge)
 
 </div>
 
@@ -36,16 +44,6 @@
 
 ---
 
-## 🏆 Troféus do GitHub  
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Gu-Fernandes&theme=dracula&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
-
-</div>
-
----
-
 ## 📫 Como me encontrar  
 
 - 💼 [LinkedIn](https://linkedin.com/in/SEU-LINK)  
@@ -56,6 +54,6 @@
 
 Evolução constante 🚀  
 
-<img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="200">
 
 </div>
