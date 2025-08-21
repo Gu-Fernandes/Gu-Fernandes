@@ -2,8 +2,6 @@
 
 <img align="right" alt="coding-gif" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-
-
 ## ✨ Eu sou o Gustavo
 💻 Desenvolvedor **Front-end**  
 🚀 Apaixonado por **tecnologia, programação e inovação**  
