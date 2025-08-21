@@ -2,13 +2,15 @@
 
 <img align="right" alt="coding-gif" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+<hr style="clear:both"/>
+
 ## ✨ Eu sou o Gustavo
 💻 Desenvolvedor **Front-end**  
 🚀 Apaixonado por **tecnologia, programação e inovação**  
 📚 Atualmente estudando **JavaScript & React**  
 🎯 Objetivo: criar interfaces modernas, responsivas e funcionais  
 
----
+<hr style="clear:both"/>
 
 ## 🚀 Tecnologias e Ferramentas  
 
@@ -29,7 +31,7 @@
 
 </div>
 
----
+<hr style="clear:both"/>
 
 ## 📊 Estatísticas do GitHub  
 
@@ -40,13 +42,13 @@
 
 </div>
 
----
+<hr style="clear:both"/>
 
 ## 📫 Como me encontrar  
 
 - 💼 [LinkedIn](https://linkedin.com/in/SEU-LINK)  
 
----
+<hr style="clear:both"/>
 
 <div align="start">
 
