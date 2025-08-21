@@ -55,6 +55,6 @@
 
 Evolução constante 🚀  
 
-<img src="https://i.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy-downsized.gif" width="200">
 
 </div>
