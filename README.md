@@ -1,8 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3c9117,0a662d&height=150&section=header"/>
 
-<div align="center" style="background-color:#1E1E1E; padding: 25px; border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); margin-top:-40px; margin-bottom:40px;">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3c9117&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Gustavo+Fernandes;Front-end+Developer;Specialized+in+TypeScript+%26+Next.js;Welcome+to+my+profile!)](https://git.io/typing-svg)
-</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3c9117&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Gustavo+Fernandes;Front-end+Developer;focused+in+TypeScript+%26+Next.js;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ---
 <img align="right" alt="coding-gif" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
