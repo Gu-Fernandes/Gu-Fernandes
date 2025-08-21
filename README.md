@@ -2,13 +2,7 @@
 
 <img align="right" alt="coding-gif" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## ✨ Eu sou o Gustavo,
-💻 Desenvolvedor **Front-end**  
-🚀 Apaixonado por **tecnologia, programação e inovação**  
-📚 Atualmente estudando **TypeScript & React**  
-🎯 Objetivo: criar interfaces modernas, responsivas e funcionais  
-
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=61DAFB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Fernandes;I'm+a+Front-end+Developer;I+love+technology+and+innovation;Currently+studying+TypeScript+%26+React;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ## 🚀 Tecnologias e Ferramentas
 
