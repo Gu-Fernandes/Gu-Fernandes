@@ -48,19 +48,12 @@
 
 ## 📫 How to find me
 
-<p>
-  <a href="https://linkedin.com/in/gustavo-fernandes-silva/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" />
-  </a>
-  <a href="mailto:gu03fernandes.s@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge" />
-  </a>
-  <a href="https://www.instagram.com/gu_fernandesx/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge" />
-  </a>
-</p>
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gu_fernandesx/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-fernandes-silva/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gu03fernandes.s@gmail.com)
+<br>
 
---
+---
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k4ZWlxM3Z3cjQ5Y3ZkOGRnZXgxdWg4d3Ewc3ZtMDVvN2txNXJzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QEMfBsYMMamg92oG2w/giphy.gif" width="200" />
