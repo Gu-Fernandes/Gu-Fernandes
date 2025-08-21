@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gu!
+# 👋 Olá, seja muito bem vindo!
 
 💻 Desenvolvedor Front-end  
 🚀 Apaixonado por tecnologia, programação e inovação  
@@ -15,7 +15,7 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Gu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula)
+![Gu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gu-Fernandes&show_icons=true&theme=dracula)
 
 ---
 
