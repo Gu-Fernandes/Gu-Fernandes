@@ -55,9 +55,12 @@
   <a href="mailto:gu03fernandes.s@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge" />
   </a>
+  <a href="https://www.instagram.com/gu_fernandesx/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge" />
+  </a>
 </p>
 
----
+
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k4ZWlxM3Z3cjQ5Y3ZkOGRnZXgxdWg4d3Ewc3ZtMDVvN2txNXJzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QEMfBsYMMamg92oG2w/giphy.gif" width="200" />
