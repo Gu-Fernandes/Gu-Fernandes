@@ -41,7 +41,7 @@
 </p>
 
 <p>
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gu-Fernandes&theme=dracula" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gu-Fernandes&theme=dracula&border_radius=12" />
 </p>
 
 
