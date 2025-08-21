@@ -8,7 +8,7 @@
 
 
 ## 🚀 Technologies and Tools
-<img align="center" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="center" height="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 💡 Languages
 <p>
