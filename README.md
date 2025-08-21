@@ -64,6 +64,5 @@
 ---
 
 <div align="center">
-  <p>Evolução constante 🚀</p>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k4ZWlxM3Z3cjQ5Y3ZkOGRnZXgxdWg4d3Ewc3ZtMDVvN2txNXJzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QEMfBsYMMamg92oG2w/giphy.gif" width="200" />
 </div>
