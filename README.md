@@ -9,10 +9,8 @@
 
 ## 🚀 Technologies and Tools
 <img align="center" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 ### 💡 Languages
-
-<br>
-
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
