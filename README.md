@@ -1,3 +1,6 @@
+
+<img align="right" alt="coding-gif" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 ---
 
 <div align="center" style="background-color:#1E1E1E; padding: 20px; border-radius: 15px;">
@@ -7,6 +10,7 @@
   </h1>
   
 </div>
+
 
 ---
 <img align="right" alt="coding-gif" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
