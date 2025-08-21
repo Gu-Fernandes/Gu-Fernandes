@@ -6,9 +6,9 @@
 
 ---
 
+<img align="center" height="80%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 🚀 Technologies and Tools
-<img align="center" height="80%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 💡 Languages
 <p>
