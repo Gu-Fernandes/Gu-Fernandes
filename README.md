@@ -33,7 +33,7 @@
 
 ---
 
-## 📊
+## 📊Estatísticas
 
 <p>
   <img alt="Gu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Gu-Fernandes&show_icons=true&theme=dracula&hide_border=true&border_radius=12" />
