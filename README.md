@@ -51,7 +51,7 @@
 
 <hr style="clear:both"/>
 
-<div align="start">
+<div align="center">
 
 Evolução constante 🚀  
 
