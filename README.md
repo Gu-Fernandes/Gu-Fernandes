@@ -34,19 +34,13 @@
 ---
 
 ## 📊
+<div align="center">
 
-<p>
-  <img alt="Gu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Gu-Fernandes&show_icons=true&theme=dracula&hide_border=true&border_radius=12" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu-Fernandes&layout=compact&theme=dracula&hide_border=true&border_radius=12" />
-</p>
+<img alt="Gu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Gu-Fernandes&show_icons=true&theme=dracula&hide_border=true&border_radius=12&width=450" />
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu-Fernandes&layout=compact&theme=dracula&hide_border=true&border_radius=12&width=450" />
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gu-Fernandes&theme=dracula&hide_border=true&border_radius=12&width=450" />
 
-<p>
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gu-Fernandes&theme=dracula" />
-</p>
-
-<p align="center">
-  <img alt="GitHub Contributions Calendar" src="https://activity-graph.herokuapp.com/graph?username=Gu-Fernandes&theme=dracula&hide_border=true" />
-</p>
+</div>
 
 ---
 
